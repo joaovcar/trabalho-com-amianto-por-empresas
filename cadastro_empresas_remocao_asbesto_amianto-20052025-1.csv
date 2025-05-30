@@ -1,38 +1,34 @@
-;;;;;;;
-"CADASTRO DAS EMPRESAS RESPONSÁVEIS PELA REMOÇÃO DE AMIANTO/ASBESTO
-";;;;;;;
-Linha;Nº do Cadastro;Empresa;CNPJ;UF;Vencimento;Nº de Trabalhadores;Nº de Trabalhadores com contato direto
-1;185;RIP Serviços Industriais.;07.522.191/0001-91;SP;10/07/2026;7886;67
+Linha;NÂº do Cadastro;Empresa;CNPJ;UF;Vencimento;NÂº de Trabalhadores;NÂº de Trabalhadores com contato direto
+1;185;RIP ServiÃ§os Industriais.;07.522.191/0001-91;SP;10/07/2026;7886;67
 2;193;Catarinense Engenharia Ambiental S.A.;03.720.956/0001-56;SC;24/05/2026;55;2
-3;199;Pillar Engenharia e Manutenção Ltda;00.204.874/0001-60;MA;10/07/2026;513;--
-4;185;RIP Serviços Industriais.;07.522.191/0001-91;SP;10/07/2026;7886;67
+3;199;Pillar Engenharia e ManutenÃ§Ã£o Ltda;00.204.874/0001-60;MA;10/07/2026;513;--
+4;185;RIP ServiÃ§os Industriais.;07.522.191/0001-91;SP;10/07/2026;7886;67
 5;193;Catarinense Engenharia Ambiental S.A.;03.720.956/0001-56;SC;24/05/2026;55;2
-6;199;Pillar Engenharia e Manutenção Ltda;00.204.874/0001-60;MA;10/07/2026;513;--
-7;204;Essencis MG Soluções Ambientais;07.004.980/0001-40;MG;18/01/2026;172;21
-8;217;EMSERE Construções;01.683.591/0001-01;MG;18/03/2027;240;--
-9;236;Fábio Bruno Construções Ltda;04.606.738/0001-58;RJ;18/03/2027;30;10
-10;242;Caldeiraria e Usinagem Icaraí Ltda;20.182.485/0001-99;SP;19/05/2027;14;8
+6;199;Pillar Engenharia e ManutenÃ§Ã£o Ltda;00.204.874/0001-60;MA;10/07/2026;513;--
+7;204;Essencis MG SoluÃ§Ãµes Ambientais;07.004.980/0001-40;MG;18/01/2026;172;21
+8;217;EMSERE ConstruÃ§Ãµes;01.683.591/0001-01;MG;18/03/2027;240;--
+9;236;FÃ¡bio Bruno ConstruÃ§Ãµes Ltda;04.606.738/0001-58;RJ;18/03/2027;30;10
+10;242;Caldeiraria e Usinagem IcaraÃ­ Ltda;20.182.485/0001-99;SP;19/05/2027;14;8
 11;251;Deilton Daniel dos Santos Demolidora EPP;30.178.606/0001-82;SP;11/11/2026;6;0
-12;253;Zulg Construções e Comércio de materiais para Construções Ltda - ME;06.328.988/0001-07;SP;04/12/2026;8;0
+12;253;Zulg ConstruÃ§Ãµes e ComÃ©rcio de materiais para ConstruÃ§Ãµes Ltda - ME;06.328.988/0001-07;SP;04/12/2026;8;0
 13;259;Demolidora e Madeireira Otabol;19.713.902/0001-01;SP;10/07/2026;120;17
-14;262;GREENJET Serviços Técnicos Ltda;28.796.501/0001-45;SP;21/08/2025;4;4
+14;262;GREENJET ServiÃ§os TÃ©cnicos Ltda;28.796.501/0001-45;SP;21/08/2025;4;4
 15;264;Manserv Facilities;20.707.884/0001-26;SP;04/12/2026;120;14
 16;285;Caves Engenharia Eireli;32.516.008/0001-00;MA;13/08/2026;22;12
 17;286;BRC Alpinismo Industrial Limitada;15.099.887/0001-94;RJ;09/04/2027;136;--
-18;289;Soler Soluções e Indústria de Estruturas Metálicas;26.204.829/0001-08;SP;10/07/2026;10;--
+18;289;Soler SoluÃ§Ãµes e IndÃºstria de Estruturas MetÃ¡licas;26.204.829/0001-08;SP;10/07/2026;10;--
 19;290;MT Lopes Industria de Estruturas Metalicas Eireli;13.701.334/0001-34;SP;10/07/2026;16;14
-20;291;S Lopes - Soluções Metálicas;35.455.181/0001-25;SP;10/07/2026;10;3
+20;291;S Lopes - SoluÃ§Ãµes MetÃ¡licas;35.455.181/0001-25;SP;10/07/2026;10;3
 21;293;DDS DEMOLIDORA SANTOS LTDA;30.178.606/0001-82;SP;08/11/2026;5;0
 22;298;TRIAL (Rio) Tecnologia;22.243.664/0001-14;RJ;07/07/2025;50;35
 23;299;Rafael Soares Duraes;32.673.299/0001-31;SP;21/08/2025;8;6
 24;300;AA de Oliveira Montagens Instal e Com de Equip Lt;34.719.717/0001-00;SP;21/08/2025;4;4
-25;301;SPE Tremembé Ambiental S.A.;42.972.930/0001-57;SP;21/08/2025;63;15
-26;302;VB Magalhães Engenharia e Construções;33.630.746/0001-38;MA;05/10/2025;4;4
-27;303;MIPE Construções e Montagens Ltda;10.787.589/0001-73;RJ;18/01/2026;77;--
-28;304;MRG Lucas Segurança do Trabalho;36.447.979/0001-98;SP;13/08/2026;1;1
-29;305 (304);Bosco Ataíde Engenharia Ltda;50.305.905/0001-48;SP;06/12/2026;35;--
-30;306 (305);Aurélio Pinto;44.631.333/0001-39;SP;06/12/2026;2;--
+25;301;SPE TremembÃ© Ambiental S.A.;42.972.930/0001-57;SP;21/08/2025;63;15
+26;302;VB MagalhÃ£es Engenharia e ConstruÃ§Ãµes;33.630.746/0001-38;MA;05/10/2025;4;4
+27;303;MIPE ConstruÃ§Ãµes e Montagens Ltda;10.787.589/0001-73;RJ;18/01/2026;77;--
+28;304;MRG Lucas SeguranÃ§a do Trabalho;36.447.979/0001-98;SP;13/08/2026;1;1
+29;305 (304);Bosco AtaÃ­de Engenharia Ltda;50.305.905/0001-48;SP;06/12/2026;35;--
+30;306 (305);AurÃ©lio Pinto;44.631.333/0001-39;SP;06/12/2026;2;--
 31;307;Camara Industrial Service Ltda;57.633.493/0001-14;MA;09/04/2027;5;--
 32;308;J D Giroto Montagens Industriais Ltda;07.616.043/0001-45;SP;09/04/2027;10;--
 33;;KW do Brasil Ltda;02.920.183/0001-99;PA;18/01/2026;8;--
-Atualizada até 20 de maio de 2025;;;;;;;
