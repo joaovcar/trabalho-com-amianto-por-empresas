@@ -1,0 +1,9 @@
+Gênero,Variável,Faixa Etária (anos),Pleura n,Pleura %,Peritônio n,Peritônio %,Pericárdio n,Pericárdio %,Outros n,Outros %,Não Especificado n,Não Especificado %,Total n,Total %
+Homens,Total,Total,626,44.6,186,13.2,29,2.1,87,6.2,476,33.9,1404,100.0
+Homens,Faixa Etária (anos),30–50,106,16.9,43,23.1,7,24.1,16,18.4,93,19.5,265,18.9
+Homens,Faixa Etária (anos),51–64,220,35.1,64,34.4,12,41.4,28,32.2,165,34.7,489,34.8
+Homens,Faixa Etária (anos),>64,300,47.9,79,42.5,10,34.5,43,49.4,218,45.8,650,46.3
+Mulheres,Total,Total,380,37.9,229,22.9,13,1.3,63,6.3,316,31.6,1001,100.0
+Mulheres,Faixa Etária (anos),30–50,70,18.4,28,12.2,5,38.5,14,22.2,52,16.5,169,16.9
+Mulheres,Faixa Etária (anos),51–64,128,33.7,58,25.3,5,38.5,17,27.0,96,30.4,304,30.4
+Mulheres,Faixa Etária (anos),>64,182,47.9,143,62.4,3,23.1,32,50.8,168,53.2,528,52.7
